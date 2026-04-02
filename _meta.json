@@ -1,0 +1,35 @@
+{
+  "name": "group-chat-summarizer",
+  "version": "1.0.0",
+  "description": "群聊总结 - 智能提取关键信息、待办事项、话题脉络，生成结构化总结报告",
+  "author": "zhuqingsonga",
+  "homepage": "https://github.com/zhuqingsonga/group-chat-summarizer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuqingsonga/group-chat-summarizer.git"
+  },
+  "keywords": [
+    "chat",
+    "summary",
+    "群聊",
+    "总结",
+    "feishu",
+    "dingtalk",
+    "discord",
+    "slack",
+    "productivity",
+    "待办",
+    "action-items"
+  ],
+  "platforms": [
+    "feishu",
+    "dingtalk",
+    "wechat-work",
+    "discord",
+    "slack",
+    "teams",
+    "telegram"
+  ],
+  "languages": ["zh-CN", "en"],
+  "min_openclaw_version": "2026.1.0"
+}
